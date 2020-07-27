@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595839345749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "548261283",
+    "id" : "A161B24F",
+    "lastKnownWriteTime" : 1595846181,
+    "last_content_update" : 1595846181817,
+    "path" : "~/R/InsideSherpa_VirtualProgram/VP1_QuantiumDataAnalytics/task2.Rmd",
+    "project_path" : "task2.Rmd",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "last_setup_crc32" : "9818C5B8bb338d19",
+        "scrollLine" : "65",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

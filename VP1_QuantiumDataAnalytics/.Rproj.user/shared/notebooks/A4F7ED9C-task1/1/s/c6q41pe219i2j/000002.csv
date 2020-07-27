@@ -1,0 +1,4 @@
+"0","library(tidyverse)"
+"0","library(dplyr)"
+"0",""
+"0","prod_qty_200 <- transaction_data %>% filter(PROD_QTY==200)"

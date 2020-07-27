@@ -1,0 +1,2 @@
+"0","#head(transaction_data$PROD_NAME)"
+"0","transaction_data[, .N, PROD_NAME]"

@@ -1,0 +1,6 @@
+"0",""
+"0","#### Examine the words in PROD_NAME to see if there are any incorrect entries"
+"0","#### such as products that are not chips"
+"0","productWords <- data.table(unlist(strsplit(unique(transaction_data[, PROD_NAME]), """
+"0",""")))"
+"0","setnames(productWords, 'words')"

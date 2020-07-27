@@ -1,0 +1,1 @@
+"0","transaction_data <- transaction_data[!(transaction_data$LYLTY_CARD_NBR == 226000)]"

@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error in as.data.table(read.csv(\"QVI_purchase_behaviour.csv\")) : \n  could not find function \"as.data.table\"\n"}

@@ -1,0 +1,2 @@
+"0","#### Examining the values of lifestage and premium_customer"
+"0","purchase_beahviour[, .N, by = LIFESTAGE][order(‐N)]"

@@ -1,0 +1,8 @@
+"0",""
+"0","#### We can work this out by taking the digits that are in PROD_NAME"
+"0","transaction_data[, PACK_SIZE := parse_number(PROD_NAME)]"
+"0",""
+"0","#### Let's check if the pack sizes look sensible "
+"0","df_packSizeVsTransactions <- transaction_data[, .N, PACK_SIZE][order(PACK_SIZE)]"
+"0",""
+"0","df_packSizeVsTransactions"

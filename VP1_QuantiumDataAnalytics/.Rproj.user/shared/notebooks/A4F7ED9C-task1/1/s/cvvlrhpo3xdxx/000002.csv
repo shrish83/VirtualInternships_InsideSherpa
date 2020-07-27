@@ -1,0 +1,7 @@
+"0",""
+"0","#Create a column which contains the brand of the product, by extracting it from the product name."
+"0",""
+"0",""
+"0","transaction_data$BRAND <- gsub(""([A-Za-z]+).*"", ""\\1"", transaction_data$PROD_NAME)"
+"0",""
+"0","transaction_data[, .N, by = BRAND][order(‐N)]"

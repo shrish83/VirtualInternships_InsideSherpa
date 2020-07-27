@@ -1,0 +1,2 @@
+"0","countByDate <- count(transaction_data, transaction_data$DATE)"
+"0","countByDate"

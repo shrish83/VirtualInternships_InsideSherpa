@@ -1,0 +1,3 @@
+"0",""
+"0","transaction_data[, SALSA := grepl(""salsa"", tolower(PROD_NAME))]"
+"0","transaction_data <- transaction_data[SALSA == FALSE, ][, SALSA := NULL]"
