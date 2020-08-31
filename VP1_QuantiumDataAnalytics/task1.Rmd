@@ -524,6 +524,8 @@ brand_proportions <- merge(quantity_segment1_by_brand, quantity_other_by_brand)[
 
 brand_proportions[order(‐affinityToBrand)]
 
+ggplot(brand_proportions, aes(brand_proportions$BRAND,brand_proportions$affinityToBrand)) + geom_bar(stat = "identity",fill = "yellow") + labs(x = "Brand", y = "Customers Affinity to Brand", title = "Favorite brands of Customers") + theme(axis.text.x = element_text(angle = 90, vjust = 0.5))
+
 
 
 ```

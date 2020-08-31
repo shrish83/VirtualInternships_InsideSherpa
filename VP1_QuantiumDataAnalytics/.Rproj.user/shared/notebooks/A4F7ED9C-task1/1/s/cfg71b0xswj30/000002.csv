@@ -1,4 +1,0 @@
-"0","purchase_beahviour <- as.data.table( read.csv(""QVI_purchase_behaviour.csv""))"
-"2","Error in as.data.table(read.csv(""QVI_purchase_behaviour.csv"")) : 
-  could not find function ""as.data.table""
-"

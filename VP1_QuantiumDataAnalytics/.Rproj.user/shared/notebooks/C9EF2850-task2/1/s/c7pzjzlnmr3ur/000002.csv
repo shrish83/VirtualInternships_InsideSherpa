@@ -1,2 +1,1 @@
-"0","filePath <-"""""
-"0","data <- fread(paste0(filePath,""QVI_data.csv""))"
+"0","data <- fread(""QVI_data2.csv"")"

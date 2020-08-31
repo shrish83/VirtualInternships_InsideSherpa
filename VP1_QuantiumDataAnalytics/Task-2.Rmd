@@ -1,0 +1,10 @@
+---
+title: "Task 2 - Retail Strategy and Analytics - Quantium Virtual Internship"
+author: "Shrishti Vaish"
+date: "31/07/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+`` added to the code chunk to prevent printing of the R code that generated the plot.

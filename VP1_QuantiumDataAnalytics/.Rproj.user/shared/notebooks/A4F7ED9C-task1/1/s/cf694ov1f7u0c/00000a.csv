@@ -1,8 +1,0 @@
-"0",""
-"0","#ggplot(df_packSizeVsTransactions, aes(x = df_packSizeVsTransactions$PACK_SIZE, y = df_packSizeVsTransactions$N)) +"
-"0","# geom_line() +"
-"0"," #labs(x = ""Pack Sizes"", y = ""Number of transactions"", title = ""Transactions #over time"") + scale_x_continuous(breaks = seq(70,390,20)) +"
-"0"," #theme(axis.text.x = element_text(angle = 90, vjust = 0.5))"
-"0",""
-"0","hist(transaction_data[, PACK_SIZE])"
-"0",""
